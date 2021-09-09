@@ -1,3 +1,3 @@
 function init(){
-    return "Hello world 111";
+    return "Hello world 222";
 }
